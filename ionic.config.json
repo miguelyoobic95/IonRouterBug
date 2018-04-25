@@ -1,0 +1,7 @@
+{
+  "name": "IonRouterBug",
+  "type": "angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
